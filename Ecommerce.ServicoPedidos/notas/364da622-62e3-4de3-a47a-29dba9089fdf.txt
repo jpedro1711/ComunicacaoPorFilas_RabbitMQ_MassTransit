@@ -1,0 +1,6 @@
+Nota Fiscal
+=============
+Pedido ID: 364da622-62e3-4de3-a47a-29dba9089fdf
+Data: 15/07/2024 23:14:05
+Cliente: joao
+Endereço de Entrega: string
